@@ -1,2 +1,2 @@
 # workflow-automation
-This Composer Package help to implement the dynamic workflow automations dynamically.
+This Composer Package help to implement the workflow automations dynamically.
