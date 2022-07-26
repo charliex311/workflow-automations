@@ -1,0 +1,19 @@
+{
+    "name": "furqan311/workflow-automations",
+    "description": "This Composer Package help to implement the workflow automations dynamically.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Furqan311\\WorkflowAutomations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Furqan Hameed",
+            "email": "furqanhameedjutt.311@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
